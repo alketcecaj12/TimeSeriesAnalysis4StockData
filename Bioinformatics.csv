@@ -1,0 +1,11 @@
+ticker,name,currency,rate_currency,sector,price
+QIA,Qiagen NV,EUR,1.0,Diagnostic,40.155
+SAN,Sanofi SA,EUR,1.0,Pharma,86.45
+TMO,Thermo Fisher Scientific Inc,USD,1.086055,Device,575.39
+VEEV,Veeva Systems Inc,USD,1.086055,SaaS,223.61
+LONN,Lonza Group AG,CHF,0.9617940171,Chemical,461.8
+UTHR,United Therapeutics Corporation,USD,1.086055,Device,227.25
+CPRX,Catalyst Pharmaceuticals Inc,USD,1.086055,R&D,16.92
+EVT,Evotec SE,EUR,1.0,Precision medicine,13.47
+VRTX,Vertex Pharmaceuticals Incorporated,USD,1.086055,Pharma,427.86
+CTKB,Cytek Biosciences Inc,USD,1.086055,Pharma,8.07
